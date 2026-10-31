@@ -1,0 +1,1 @@
+(function(){var e=null;try{e=localStorage.getItem("xaxes.neg")}catch{}var t=e==null?matchMedia("(prefers-color-scheme: dark)").matches:e==="1";document.documentElement.setAttribute(t?"data-neg":"data-pos","")})();

@@ -1,0 +1,10 @@
+/* self-hosted faces. daemon display for titles, archivo for text, jetbrains mono for every instrument.
+   daemon display © bless, all rights reserved. the open font license covers archivo and jetbrains mono only
+   (OFL-Archivo.txt, OFL-JetBrainsMono.txt). */
+@font-face { font-family: "Archivo"; src: url("archivo-400.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "Archivo"; src: url("archivo-600.woff2") format("woff2"); font-weight: 600; font-style: normal; font-display: swap; }
+@font-face { font-family: "Archivo"; src: url("archivo-800.woff2") format("woff2"); font-weight: 700 800; font-style: normal; font-display: swap; }
+@font-face { font-family: "JetBrains Mono"; src: url("jetbrains-mono-400-latin.woff2") format("woff2"); font-weight: 400; font-style: normal; font-display: swap; }
+@font-face { font-family: "JetBrains Mono"; src: url("jetbrains-mono-500-latin.woff2") format("woff2"); font-weight: 500; font-style: normal; font-display: swap; }
+@font-face { font-family: "JetBrains Mono"; src: url("jetbrains-mono-700-latin.woff2") format("woff2"); font-weight: 600 700; font-style: normal; font-display: swap; }
+@font-face { font-family: "Daemon Display"; src: url("daemon-display-900.woff2") format("woff2"); font-weight: 900; font-style: normal; font-display: block; }
